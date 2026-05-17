@@ -199,4 +199,5 @@
             <Feature name="can-swap-width-height" value="1" />
         </MediaCodec>
     </Encoders>
+    <Include href="media_codecs_dolby_audio.xml" />
 </MediaCodecs>
