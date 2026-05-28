@@ -1,0 +1,7 @@
+allow system_server sysfs_axburst:file rw_file_perms;
+allow system_server proc_axburst:file rw_file_perms;
+allow system_server sysfs_devices_system_cpu:file rw_file_perms;
+allow system_server sysfs_ged:file rw_file_perms;
+allow system_server proc_ged:file rw_file_perms;
+allow system_server sysfs_dvfsrc_devfreq:file rw_file_perms;
+allow system_server sysfs_gpu:file rw_file_perms;
